@@ -1,0 +1,271 @@
+{
+  "model_name": "Random Forest Regressor",
+  "model_type": "Tree Ensemble Regressor",
+  "target_variable": "yield_tonnes_per_hectare",
+  "target_unit": "t/ha",
+  "crop": "Wheat (Triticum aestivum)",
+  "region": "Punjab, India",
+  "growing_season": "Rabi (November-March climate window)",
+  "dataset": {
+    "file": "punjab_wheat_real_data.csv",
+    "records": 338,
+    "year_range": [
+      1997,
+      2014
+    ],
+    "districts": 22,
+    "cleaning_counts": {
+      "source_rows": 338,
+      "punjab_rabi_wheat_rows": 338,
+      "incomplete_or_non_numeric_rows_removed": 0,
+      "duplicate_district_year_rows_removed": 0,
+      "out_of_range_rows_removed": 0
+    }
+  },
+  "base_value": 4.401581,
+  "regional_historical_mean": 4.401095,
+  "regional_historical_std": 0.479785,
+  "training_samples": 252,
+  "validation_samples": 42,
+  "test_samples": 44,
+  "split_strategy": "Chronological by crop year: train <=2010, validation 2011-2012, test >=2013",
+  "selection_criterion": "Lowest validation MAE; RMSE breaks ties. Test set is held out from model selection.",
+  "metrics": {
+    "validation": {
+      "mae": 0.4623,
+      "rmse": 0.5375,
+      "r2": -1.5323
+    },
+    "test": {
+      "mae": 0.5174,
+      "rmse": 0.5899,
+      "r2": -0.0586
+    }
+  },
+  "comparison": {
+    "Random Forest Regressor": {
+      "validation": {
+        "mae": 0.4623,
+        "rmse": 0.5375,
+        "r2": -1.5323
+      },
+      "test": {
+        "mae": 0.5174,
+        "rmse": 0.5899,
+        "r2": -0.0586
+      }
+    },
+    "XGBoost Regressor": {
+      "validation": {
+        "mae": 0.5198,
+        "rmse": 0.5855,
+        "r2": -2.0043
+      },
+      "test": {
+        "mae": 0.515,
+        "rmse": 0.5982,
+        "r2": -0.0885
+      }
+    }
+  },
+  "feature_columns": [
+    "avg_temperature",
+    "max_temperature",
+    "rainfall_mm",
+    "humidity_pct",
+    "soil_moisture_pct",
+    "heat_wave_days",
+    "district"
+  ],
+  "feature_labels": {
+    "avg_temperature": "Average Temperature",
+    "max_temperature": "Maximum Terminal-Period Temperature",
+    "rainfall_mm": "Rabi Seasonal Rainfall",
+    "humidity_pct": "Relative Humidity",
+    "soil_moisture_pct": "Root-Zone Soil Moisture",
+    "heat_wave_days": "Terminal Heat Days",
+    "district": "District"
+  },
+  "feature_units": {
+    "avg_temperature": "deg C",
+    "max_temperature": "deg C",
+    "rainfall_mm": "mm",
+    "humidity_pct": "%",
+    "soil_moisture_pct": "%",
+    "heat_wave_days": "days",
+    "district": ""
+  },
+  "transformed_feature_names": [
+    "avg_temperature",
+    "max_temperature",
+    "rainfall_mm",
+    "humidity_pct",
+    "soil_moisture_pct",
+    "heat_wave_days",
+    "district_Amritsar",
+    "district_Barnala",
+    "district_Bathinda",
+    "district_Faridkot",
+    "district_Fatehgarh Sahib",
+    "district_Fazilka",
+    "district_Firozpur",
+    "district_Gurdaspur",
+    "district_Hoshiarpur",
+    "district_Jalandhar",
+    "district_Kapurthala",
+    "district_Ludhiana",
+    "district_Mansa",
+    "district_Moga",
+    "district_Muktsar",
+    "district_Nawanshahr",
+    "district_Pathankot",
+    "district_Patiala",
+    "district_Rupnagar",
+    "district_S.A.S Nagar",
+    "district_Sangrur",
+    "district_Tarn Taran"
+  ],
+  "transformed_feature_groups": [
+    "avg_temperature",
+    "max_temperature",
+    "rainfall_mm",
+    "humidity_pct",
+    "soil_moisture_pct",
+    "heat_wave_days",
+    "district",
+    "district",
+    "district",
+    "district",
+    "district",
+    "district",
+    "district",
+    "district",
+    "district",
+    "district",
+    "district",
+    "district",
+    "district",
+    "district",
+    "district",
+    "district",
+    "district",
+    "district",
+    "district",
+    "district",
+    "district",
+    "district"
+  ],
+  "feature_ranges": {
+    "avg_temperature": {
+      "min": 12.45,
+      "max": 18.79,
+      "p05": 16.152,
+      "p95": 18.447
+    },
+    "max_temperature": {
+      "min": 30.95,
+      "max": 41.69,
+      "p05": 33.609,
+      "p95": 40.478
+    },
+    "rainfall_mm": {
+      "min": 11.9,
+      "max": 272.2,
+      "p05": 22.9,
+      "p95": 184.825
+    },
+    "humidity_pct": {
+      "min": 24.4,
+      "max": 55.7,
+      "p05": 26.565,
+      "p95": 48.9
+    },
+    "soil_moisture_pct": {
+      "min": 33.1,
+      "max": 54.4,
+      "p05": 33.6,
+      "p95": 45.3
+    },
+    "heat_wave_days": {
+      "min": 0.0,
+      "max": 37.0,
+      "p05": 6.0,
+      "p95": 33.35
+    }
+  },
+  "global_importances": [
+    {
+      "feature": "max_temperature",
+      "feature_label": "Maximum Terminal-Period Temperature",
+      "mean_abs_shap": 0.247053,
+      "unit": "deg C",
+      "description": "Mean absolute TreeExplainer SHAP value on the held-out test observations."
+    },
+    {
+      "feature": "humidity_pct",
+      "feature_label": "Relative Humidity",
+      "mean_abs_shap": 0.116232,
+      "unit": "%",
+      "description": "Mean absolute TreeExplainer SHAP value on the held-out test observations."
+    },
+    {
+      "feature": "avg_temperature",
+      "feature_label": "Average Temperature",
+      "mean_abs_shap": 0.061519,
+      "unit": "deg C",
+      "description": "Mean absolute TreeExplainer SHAP value on the held-out test observations."
+    },
+    {
+      "feature": "district",
+      "feature_label": "District",
+      "mean_abs_shap": 0.050822,
+      "unit": "",
+      "description": "Mean absolute TreeExplainer SHAP value on the held-out test observations."
+    },
+    {
+      "feature": "rainfall_mm",
+      "feature_label": "Rabi Seasonal Rainfall",
+      "mean_abs_shap": 0.037622,
+      "unit": "mm",
+      "description": "Mean absolute TreeExplainer SHAP value on the held-out test observations."
+    },
+    {
+      "feature": "heat_wave_days",
+      "feature_label": "Terminal Heat Days",
+      "mean_abs_shap": 0.033797,
+      "unit": "days",
+      "description": "Mean absolute TreeExplainer SHAP value on the held-out test observations."
+    },
+    {
+      "feature": "soil_moisture_pct",
+      "feature_label": "Root-Zone Soil Moisture",
+      "mean_abs_shap": 0.012812,
+      "unit": "%",
+      "description": "Mean absolute TreeExplainer SHAP value on the held-out test observations."
+    }
+  ],
+  "shap": {
+    "method": "TreeExplainer",
+    "global_importance_scope": "Held-out test observations",
+    "max_test_additivity_error": 0.0
+  },
+  "data_sources": {
+    "yield": {
+      "name": "Punjab Rabi wheat crop area and production records; DES/APY data via public mirror",
+      "url": "https://raw.githubusercontent.com/dibyendubiswas1998/Crop-Production-Analysis/main/DATA/crop_production.csv",
+      "official_portal": "https://desagri.gov.in/",
+      "coverage": "22 Punjab districts, 1997-2014"
+    },
+    "climate": {
+      "name": "NASA POWER daily point data, Agroclimatology community",
+      "url": "https://power.larc.nasa.gov/",
+      "coverage": "District-headquarters coordinate points; Rabi crop years 1997-2014"
+    }
+  },
+  "artifacts": {
+    "model": "wheat_model.joblib",
+    "preprocessor": "preprocessor.joblib",
+    "background_sample": "background_sample.joblib"
+  },
+  "status": "TRAINED_ON_COLLECTED_OBSERVATIONS"
+}

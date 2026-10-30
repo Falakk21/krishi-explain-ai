@@ -1,0 +1,339 @@
+year,country,state,district,crop,season,avg_temperature,max_temperature,rainfall_mm,humidity_pct,soil_moisture_pct,heat_wave_days,yield_tonnes_per_hectare,area_hectares,production_tonnes
+1997,India,Punjab,Amritsar,Wheat,Rabi,16.42,34.25,58.5,31.7,35.2,10,3.777,349000.0,1318000.0
+1997,India,Punjab,Bathinda,Wheat,Rabi,17.38,34.65,41.8,24.4,44.7,16,3.47,236000.0,819000.0
+1997,India,Punjab,Faridkot,Wheat,Rabi,17.04,34.69,41.8,25.9,40.4,16,4.138,109000.0,451000.0
+1997,India,Punjab,Fatehgarh Sahib,Wheat,Rabi,16.71,34.85,39.3,30.9,34.9,16,4.102,88000.0,361000.0
+1997,India,Punjab,Firozpur,Wheat,Rabi,17.0,34.72,41.5,26.7,35.4,15,3.974,422000.0,1677000.0
+1997,India,Punjab,Gurdaspur,Wheat,Rabi,16.44,32.35,79.8,32.9,40.0,3,3.758,194000.0,729000.0
+1997,India,Punjab,Hoshiarpur,Wheat,Rabi,16.09,32.27,65.1,33.6,38.1,3,3.059,135000.0,413000.0
+1997,India,Punjab,Jalandhar,Wheat,Rabi,16.37,33.68,62.1,33.1,36.1,10,3.586,157000.0,563000.0
+1997,India,Punjab,Kapurthala,Wheat,Rabi,16.37,33.68,62.1,33.1,36.1,10,3.412,102000.0,348000.0
+1997,India,Punjab,Ludhiana,Wheat,Rabi,16.45,34.54,48.6,31.1,34.6,14,4.21,257000.0,1082000.0
+1997,India,Punjab,Mansa,Wheat,Rabi,16.96,34.66,42.8,26.2,37.9,17,3.554,157000.0,558000.0
+1997,India,Punjab,Moga,Wheat,Rabi,16.73,34.52,47.5,28.6,35.4,14,4.274,124000.0,530000.0
+1997,India,Punjab,Muktsar,Wheat,Rabi,17.39,35.08,37.1,24.6,41.4,16,3.46,176000.0,609000.0
+1997,India,Punjab,Nawanshahr,Wheat,Rabi,16.75,34.24,48.8,31.9,35.5,12,3.561,57000.0,203000.0
+1997,India,Punjab,Patiala,Wheat,Rabi,16.71,34.85,39.3,30.9,34.9,16,4.055,253000.0,1026000.0
+1997,India,Punjab,Rupnagar,Wheat,Rabi,16.75,34.24,48.8,31.9,35.5,12,3.566,83000.0,296000.0
+1997,India,Punjab,Sangrur,Wheat,Rabi,16.59,34.55,42.0,28.6,35.6,15,4.319,401000.0,1732000.0
+1998,India,Punjab,Amritsar,Wheat,Rabi,16.1,37.26,63.7,42.5,36.1,11,4.028,214000.0,862000.0
+1998,India,Punjab,Bathinda,Wheat,Rabi,16.49,37.64,98.9,43.6,46.6,12,4.434,258000.0,1144000.0
+1998,India,Punjab,Faridkot,Wheat,Rabi,16.27,37.62,87.9,43.1,42.0,11,4.274,62000.0,265000.0
+1998,India,Punjab,Fatehgarh Sahib,Wheat,Rabi,16.2,35.84,110.9,45.2,38.7,9,4.718,85000.0,401000.0
+1998,India,Punjab,Firozpur,Wheat,Rabi,16.36,37.7,68.2,41.2,36.6,11,4.427,354000.0,1567000.0
+1998,India,Punjab,Gurdaspur,Wheat,Rabi,16.02,34.48,59.6,41.5,40.2,7,4.306,108000.0,465000.0
+1998,India,Punjab,Hoshiarpur,Wheat,Rabi,15.56,33.17,88.3,44.3,40.7,5,3.486,140000.0,488000.0
+1998,India,Punjab,Jalandhar,Wheat,Rabi,15.99,36.23,71.0,43.9,37.9,9,4.617,162000.0,748000.0
+1998,India,Punjab,Kapurthala,Wheat,Rabi,15.99,36.23,71.0,43.9,37.9,9,4.16,238000.0,990000.0
+1998,India,Punjab,Ludhiana,Wheat,Rabi,16.01,37.07,83.5,44.2,37.2,9,4.414,413000.0,1823000.0
+1998,India,Punjab,Mansa,Wheat,Rabi,16.24,36.81,108.4,44.6,41.8,12,4.321,159000.0,687000.0
+1998,India,Punjab,Moga,Wheat,Rabi,16.18,37.61,75.8,42.6,37.1,11,4.532,124000.0,562000.0
+1998,India,Punjab,Muktsar,Wheat,Rabi,16.53,37.87,76.9,41.5,42.6,12,4.234,175000.0,741000.0
+1998,India,Punjab,Nawanshahr,Wheat,Rabi,16.24,35.21,99.6,44.3,38.5,9,4.518,257000.0,1161000.0
+1998,India,Punjab,Patiala,Wheat,Rabi,16.2,35.84,110.9,45.2,38.7,9,4.45,393000.0,1749000.0
+1998,India,Punjab,Rupnagar,Wheat,Rabi,16.24,35.21,99.6,44.3,38.5,9,4.382,110000.0,482000.0
+1998,India,Punjab,Sangrur,Wheat,Rabi,16.03,36.93,96.5,44.3,38.8,10,3.779,86000.0,325000.0
+1999,India,Punjab,Amritsar,Wheat,Rabi,18.09,39.59,43.6,31.9,34.2,19,4.855,358000.0,1738000.0
+1999,India,Punjab,Bathinda,Wheat,Rabi,18.59,41.58,29.3,31.7,45.3,25,4.616,242000.0,1117000.0
+1999,India,Punjab,Faridkot,Wheat,Rabi,18.44,40.74,33.3,31.2,40.6,24,4.661,112000.0,522000.0
+1999,India,Punjab,Fatehgarh Sahib,Wheat,Rabi,18.01,40.99,41.5,35.2,35.8,23,5.151,86000.0,443000.0
+1999,India,Punjab,Firozpur,Wheat,Rabi,18.5,39.88,37.6,30.7,35.4,22,4.647,374000.0,1738000.0
+1999,India,Punjab,Gurdaspur,Wheat,Rabi,18.18,37.85,56.2,29.7,35.6,14,4.362,213000.0,929000.0
+1999,India,Punjab,Hoshiarpur,Wheat,Rabi,17.74,38.0,50.7,32.3,35.8,15,3.59,144000.0,517000.0
+1999,India,Punjab,Jalandhar,Wheat,Rabi,18.07,39.44,45.6,32.1,34.3,20,4.926,163000.0,803000.0
+1999,India,Punjab,Kapurthala,Wheat,Rabi,18.07,39.44,45.6,32.1,34.3,20,4.712,111000.0,523000.0
+1999,India,Punjab,Ludhiana,Wheat,Rabi,18.08,40.58,39.7,32.5,34.1,22,5.066,259000.0,1312000.0
+1999,India,Punjab,Mansa,Wheat,Rabi,18.21,41.69,31.3,33.5,39.2,24,4.58,157000.0,719000.0
+1999,India,Punjab,Moga,Wheat,Rabi,18.3,40.24,37.6,31.4,35.2,23,4.929,170000.0,838000.0
+1999,India,Punjab,Muktsar,Wheat,Rabi,18.71,40.34,32.3,30.4,41.7,24,4.727,187000.0,884000.0
+1999,India,Punjab,Nawanshahr,Wheat,Rabi,18.26,40.11,45.6,33.1,35.2,22,4.597,67000.0,308000.0
+1999,India,Punjab,Patiala,Wheat,Rabi,18.01,40.99,41.5,35.2,35.8,23,4.799,264000.0,1267000.0
+1999,India,Punjab,Rupnagar,Wheat,Rabi,18.26,40.11,45.6,33.1,35.2,22,4.023,87000.0,350000.0
+1999,India,Punjab,Sangrur,Wheat,Rabi,18.08,41.0,35.4,33.1,35.9,24,4.827,394000.0,1902000.0
+2000,India,Punjab,Amritsar,Wheat,Rabi,17.26,38.13,64.7,30.3,35.0,10,4.681,361000.0,1690000.0
+2000,India,Punjab,Bathinda,Wheat,Rabi,18.03,39.12,32.9,26.6,44.7,20,4.173,243000.0,1014000.0
+2000,India,Punjab,Faridkot,Wheat,Rabi,17.71,38.79,40.8,27.9,40.6,17,4.721,111000.0,524000.0
+2000,India,Punjab,Fatehgarh Sahib,Wheat,Rabi,17.6,39.09,52.6,27.7,33.9,16,5.047,86000.0,434000.0
+2000,India,Punjab,Firozpur,Wheat,Rabi,17.65,38.48,48.6,28.7,35.7,14,4.511,378000.0,1705000.0
+2000,India,Punjab,Gurdaspur,Wheat,Rabi,17.1,36.3,90.3,30.6,37.6,8,4.258,217000.0,924000.0
+2000,India,Punjab,Hoshiarpur,Wheat,Rabi,16.71,35.96,77.4,30.4,35.6,7,3.444,142000.0,489000.0
+2000,India,Punjab,Jalandhar,Wheat,Rabi,17.18,37.73,68.7,30.6,35.2,9,4.629,167000.0,773000.0
+2000,India,Punjab,Kapurthala,Wheat,Rabi,17.18,37.73,68.7,30.6,35.2,9,4.441,111000.0,493000.0
+2000,India,Punjab,Ludhiana,Wheat,Rabi,17.32,38.41,53.7,29.2,34.3,11,5.171,258000.0,1334000.0
+2000,India,Punjab,Mansa,Wheat,Rabi,17.8,39.31,36.1,26.8,37.6,19,4.589,163000.0,748000.0
+2000,India,Punjab,Moga,Wheat,Rabi,17.48,38.37,50.6,29.0,35.4,13,4.756,172000.0,818000.0
+2000,India,Punjab,Muktsar,Wheat,Rabi,17.94,38.87,38.5,27.5,41.7,16,4.598,189000.0,869000.0
+2000,India,Punjab,Nawanshahr,Wheat,Rabi,17.5,37.76,63.2,28.6,34.4,10,4.457,70000.0,312000.0
+2000,India,Punjab,Patiala,Wheat,Rabi,17.6,39.09,52.6,27.7,33.9,16,4.563,261000.0,1191000.0
+2000,India,Punjab,Rupnagar,Wheat,Rabi,17.5,37.76,63.2,28.6,34.4,10,3.628,86000.0,312000.0
+2000,India,Punjab,Sangrur,Wheat,Rabi,17.48,38.73,43.7,28.0,35.1,16,4.888,393000.0,1921000.0
+2001,India,Punjab,Amritsar,Wheat,Rabi,17.88,37.5,32.7,26.5,33.1,24,4.683,363000.0,1700000.0
+2001,India,Punjab,Bathinda,Wheat,Rabi,18.58,38.21,25.1,25.1,44.6,23,3.905,243000.0,949000.0
+2001,India,Punjab,Faridkot,Wheat,Rabi,18.26,38.12,27.8,25.7,40.2,23,4.468,111000.0,496000.0
+2001,India,Punjab,Fatehgarh Sahib,Wheat,Rabi,18.1,37.4,39.5,26.7,33.6,23,4.918,85000.0,418000.0
+2001,India,Punjab,Firozpur,Wheat,Rabi,18.18,38.18,30.6,25.8,34.8,25,4.337,383000.0,1661000.0
+2001,India,Punjab,Gurdaspur,Wheat,Rabi,17.91,35.86,40.7,26.0,35.1,12,4.659,217000.0,1011000.0
+2001,India,Punjab,Hoshiarpur,Wheat,Rabi,17.56,35.18,46.4,27.0,34.1,10,3.612,139000.0,502000.0
+2001,India,Punjab,Jalandhar,Wheat,Rabi,17.86,36.89,35.7,26.8,33.3,23,4.701,167000.0,785000.0
+2001,India,Punjab,Kapurthala,Wheat,Rabi,17.86,36.89,35.7,26.8,33.3,23,4.719,114000.0,538000.0
+2001,India,Punjab,Ludhiana,Wheat,Rabi,17.89,37.51,33.0,26.6,33.3,24,5.074,257000.0,1304000.0
+2001,India,Punjab,Mansa,Wheat,Rabi,18.27,37.9,29.1,26.1,37.5,24,4.042,165000.0,667000.0
+2001,India,Punjab,Moga,Wheat,Rabi,18.08,37.81,30.3,26.1,34.3,25,4.665,167000.0,779000.0
+2001,India,Punjab,Muktsar,Wheat,Rabi,18.46,38.51,24.9,24.9,41.2,25,4.238,193000.0,818000.0
+2001,India,Punjab,Nawanshahr,Wheat,Rabi,18.16,36.73,43.2,26.5,33.7,22,4.563,71000.0,324000.0
+2001,India,Punjab,Patiala,Wheat,Rabi,18.1,37.4,39.5,26.7,33.6,23,4.943,265000.0,1310000.0
+2001,India,Punjab,Rupnagar,Wheat,Rabi,18.16,36.73,43.2,26.5,33.7,22,3.943,88000.0,347000.0
+2001,India,Punjab,Sangrur,Wheat,Rabi,17.97,37.73,31.2,26.5,34.8,23,4.821,392000.0,1890000.0
+2002,India,Punjab,Amritsar,Wheat,Rabi,18.11,39.22,33.6,30.1,33.2,19,4.25,356000.0,1513000.0
+2002,India,Punjab,Bathinda,Wheat,Rabi,18.6,39.52,35.6,28.2,44.9,22,4.18,239000.0,999000.0
+2002,India,Punjab,Faridkot,Wheat,Rabi,18.35,39.47,36.1,28.9,40.2,20,4.232,112000.0,474000.0
+2002,India,Punjab,Fatehgarh Sahib,Wheat,Rabi,18.12,38.95,70.8,31.8,34.2,21,4.459,85000.0,379000.0
+2002,India,Punjab,Firozpur,Wheat,Rabi,18.43,39.52,28.5,28.7,34.8,21,3.984,369000.0,1470000.0
+2002,India,Punjab,Gurdaspur,Wheat,Rabi,18.06,37.31,53.4,29.7,34.8,17,3.806,206000.0,784000.0
+2002,India,Punjab,Hoshiarpur,Wheat,Rabi,17.65,36.19,77.7,31.5,34.6,16,3.438,137000.0,471000.0
+2002,India,Punjab,Jalandhar,Wheat,Rabi,18.06,38.55,46.3,30.8,33.4,19,4.281,167000.0,715000.0
+2002,India,Punjab,Kapurthala,Wheat,Rabi,18.06,38.55,46.3,30.8,33.4,19,3.973,112000.0,445000.0
+2002,India,Punjab,Ludhiana,Wheat,Rabi,18.07,39.28,45.4,30.6,33.4,20,4.496,254000.0,1142000.0
+2002,India,Punjab,Mansa,Wheat,Rabi,18.23,39.44,42.6,29.6,37.9,21,4.239,163000.0,691000.0
+2002,India,Punjab,Moga,Wheat,Rabi,18.24,39.42,34.4,29.5,34.6,20,4.324,170000.0,735000.0
+2002,India,Punjab,Muktsar,Wheat,Rabi,18.66,39.68,29.6,28.0,41.3,21,4.214,192000.0,809000.0
+2002,India,Punjab,Nawanshahr,Wheat,Rabi,18.3,38.23,75.3,31.2,34.2,18,3.735,68000.0,254000.0
+2002,India,Punjab,Patiala,Wheat,Rabi,18.12,38.95,70.8,31.8,34.2,21,4.468,265000.0,1184000.0
+2002,India,Punjab,Rupnagar,Wheat,Rabi,18.3,38.23,75.3,31.2,34.2,18,3.547,86000.0,305000.0
+2002,India,Punjab,Sangrur,Wheat,Rabi,18.03,39.35,45.1,30.3,35.1,21,4.581,394000.0,1805000.0
+2003,India,Punjab,Amritsar,Wheat,Rabi,17.22,33.87,148.3,41.4,37.4,12,4.296,358000.0,1538000.0
+2003,India,Punjab,Bathinda,Wheat,Rabi,18.36,36.38,61.6,36.6,45.3,17,3.893,242000.0,942000.0
+2003,India,Punjab,Faridkot,Wheat,Rabi,17.93,35.54,84.1,38.2,41.6,16,4.044,114000.0,461000.0
+2003,India,Punjab,Fatehgarh Sahib,Wheat,Rabi,17.68,35.49,98.1,39.5,36.1,17,4.318,85000.0,367000.0
+2003,India,Punjab,Firozpur,Wheat,Rabi,17.83,35.0,111.1,38.5,37.6,13,4.141,383000.0,1586000.0
+2003,India,Punjab,Gurdaspur,Wheat,Rabi,17.24,32.25,189.7,39.0,41.7,10,4.347,219000.0,952000.0
+2003,India,Punjab,Hoshiarpur,Wheat,Rabi,16.93,32.71,153.5,39.2,39.5,10,3.418,146000.0,499000.0
+2003,India,Punjab,Jalandhar,Wheat,Rabi,17.2,33.74,149.5,41.1,38.1,12,4.42,169000.0,747000.0
+2003,India,Punjab,Kapurthala,Wheat,Rabi,17.2,33.74,149.5,41.1,38.1,12,4.429,112000.0,496000.0
+2003,India,Punjab,Ludhiana,Wheat,Rabi,17.37,34.79,116.6,40.5,36.3,14,4.747,257000.0,1220000.0
+2003,India,Punjab,Mansa,Wheat,Rabi,18.07,35.97,66.8,37.3,38.6,19,4.163,166000.0,691000.0
+2003,India,Punjab,Moga,Wheat,Rabi,17.58,34.62,114.6,39.6,37.4,14,4.345,171000.0,743000.0
+2003,India,Punjab,Muktsar,Wheat,Rabi,18.24,36.06,77.0,37.1,42.6,16,4.132,197000.0,814000.0
+2003,India,Punjab,Nawanshahr,Wheat,Rabi,17.61,34.63,122.2,39.3,37.1,14,4.147,75000.0,311000.0
+2003,India,Punjab,Patiala,Wheat,Rabi,17.68,35.49,98.1,39.5,36.1,17,4.117,266000.0,1095000.0
+2003,India,Punjab,Rupnagar,Wheat,Rabi,17.61,34.63,122.2,39.3,37.1,14,3.529,87000.0,307000.0
+2003,India,Punjab,Sangrur,Wheat,Rabi,17.6,35.21,88.4,39.2,36.7,17,4.332,397000.0,1720000.0
+2004,India,Punjab,Amritsar,Wheat,Rabi,17.85,38.94,75.5,39.6,35.5,30,4.277,372000.0,1591000.0
+2004,India,Punjab,Bathinda,Wheat,Rabi,18.64,40.26,32.9,33.5,45.2,37,4.12,241000.0,993000.0
+2004,India,Punjab,Faridkot,Wheat,Rabi,18.36,40.07,42.7,35.2,40.7,35,4.272,114000.0,487000.0
+2004,India,Punjab,Fatehgarh Sahib,Wheat,Rabi,18.02,39.43,64.7,39.7,35.8,33,4.906,85000.0,417000.0
+2004,India,Punjab,Firozpur,Wheat,Rabi,18.42,39.97,46.4,34.9,35.6,35,4.142,386000.0,1599000.0
+2004,India,Punjab,Gurdaspur,Wheat,Rabi,17.88,37.0,109.5,39.2,41.8,24,3.568,227000.0,810000.0
+2004,India,Punjab,Hoshiarpur,Wheat,Rabi,17.6,36.26,99.9,38.8,39.2,23,3.4,145000.0,493000.0
+2004,India,Punjab,Jalandhar,Wheat,Rabi,17.82,38.19,85.1,40.3,36.5,28,4.292,171000.0,734000.0
+2004,India,Punjab,Kapurthala,Wheat,Rabi,17.82,38.19,85.1,40.3,36.5,28,4.0,115000.0,460000.0
+2004,India,Punjab,Ludhiana,Wheat,Rabi,17.9,39.25,64.4,39.1,34.8,33,4.829,258000.0,1246000.0
+2004,India,Punjab,Mansa,Wheat,Rabi,18.29,40.04,37.6,35.9,38.3,35,4.234,167000.0,707000.0
+2004,India,Punjab,Moga,Wheat,Rabi,18.14,39.67,56.4,37.1,35.7,35,4.387,173000.0,759000.0
+2004,India,Punjab,Muktsar,Wheat,Rabi,18.7,40.29,35.0,33.1,41.6,35,3.995,200000.0,799000.0
+2004,India,Punjab,Nawanshahr,Wheat,Rabi,18.18,38.31,81.2,38.9,36.4,30,4.105,76000.0,312000.0
+2004,India,Punjab,Patiala,Wheat,Rabi,18.02,39.43,64.7,39.7,35.8,33,4.5,266000.0,1197000.0
+2004,India,Punjab,Rupnagar,Wheat,Rabi,18.18,38.31,81.2,38.9,36.4,30,3.506,89000.0,312000.0
+2004,India,Punjab,Sangrur,Wheat,Rabi,17.98,39.68,48.9,37.8,35.9,35,4.489,397000.0,1782000.0
+2005,India,Punjab,Amritsar,Wheat,Rabi,16.88,34.57,189.8,47.1,38.6,6,4.429,371000.0,1643000.0
+2005,India,Punjab,Bathinda,Wheat,Rabi,17.61,35.41,125.4,45.5,47.3,16,3.926,243000.0,954000.0
+2005,India,Punjab,Faridkot,Wheat,Rabi,17.32,35.27,141.7,46.0,43.3,13,4.164,116000.0,483000.0
+2005,India,Punjab,Fatehgarh Sahib,Wheat,Rabi,17.42,35.14,133.1,46.2,37.4,16,4.393,84000.0,369000.0
+2005,India,Punjab,Firozpur,Wheat,Rabi,17.25,35.38,163.3,45.6,39.1,11,4.065,386000.0,1569000.0
+2005,India,Punjab,Gurdaspur,Wheat,Rabi,16.93,33.2,217.0,45.3,42.4,3,3.982,227000.0,904000.0
+2005,India,Punjab,Hoshiarpur,Wheat,Rabi,16.67,32.69,192.5,45.7,40.6,3,3.545,145000.0,514000.0
+2005,India,Punjab,Jalandhar,Wheat,Rabi,16.92,34.23,189.8,47.1,39.0,6,4.494,170000.0,764000.0
+2005,India,Punjab,Kapurthala,Wheat,Rabi,16.92,34.23,189.8,47.1,39.0,6,4.351,111000.0,483000.0
+2005,India,Punjab,Ludhiana,Wheat,Rabi,17.05,34.93,162.1,46.8,37.7,13,4.778,257000.0,1228000.0
+2005,India,Punjab,Mansa,Wheat,Rabi,17.53,35.31,125.3,45.1,40.5,16,3.755,163000.0,612000.0
+2005,India,Punjab,Moga,Wheat,Rabi,17.11,35.03,165.2,46.3,38.9,12,4.408,174000.0,767000.0
+2005,India,Punjab,Muktsar,Wheat,Rabi,17.49,35.59,138.2,45.6,44.2,12,3.935,200000.0,787000.0
+2005,India,Punjab,Nawanshahr,Wheat,Rabi,17.43,34.39,159.6,45.5,38.2,12,4.208,72000.0,303000.0
+2005,India,Punjab,Patiala,Wheat,Rabi,17.42,35.14,133.1,46.2,37.4,16,4.233,262000.0,1109000.0
+2005,India,Punjab,Rupnagar,Wheat,Rabi,17.43,34.39,159.6,45.5,38.2,12,3.593,91000.0,327000.0
+2005,India,Punjab,Sangrur,Wheat,Rabi,17.19,35.2,138.9,46.2,38.4,16,4.235,396000.0,1677000.0
+2006,India,Punjab,Amritsar,Wheat,Rabi,17.57,35.15,66.7,34.0,33.9,17,4.146,185000.0,767000.0
+2006,India,Punjab,Bathinda,Wheat,Rabi,18.31,36.51,46.5,30.7,45.2,28,4.261,245000.0,1044000.0
+2006,India,Punjab,Faridkot,Wheat,Rabi,17.99,35.95,51.8,31.7,40.3,25,4.137,117000.0,484000.0
+2006,India,Punjab,Fatehgarh Sahib,Wheat,Rabi,17.94,34.78,60.3,34.0,34.5,25,4.094,85000.0,348000.0
+2006,India,Punjab,Firozpur,Wheat,Rabi,17.86,36.03,52.8,32.0,35.3,21,4.08,389000.0,1587000.0
+2006,India,Punjab,Gurdaspur,Wheat,Rabi,17.84,33.54,88.5,33.0,36.6,5,3.974,229000.0,910000.0
+2006,India,Punjab,Hoshiarpur,Wheat,Rabi,17.52,32.2,88.0,34.1,35.9,5,3.641,142000.0,517000.0
+2006,India,Punjab,Jalandhar,Wheat,Rabi,17.66,34.31,73.7,34.3,34.5,15,4.194,165000.0,692000.0
+2006,India,Punjab,Kapurthala,Wheat,Rabi,17.66,34.31,73.7,34.3,34.5,15,4.073,109000.0,444000.0
+2006,India,Punjab,Ludhiana,Wheat,Rabi,17.66,34.9,62.1,33.8,33.9,23,4.506,257000.0,1158000.0
+2006,India,Punjab,Mansa,Wheat,Rabi,18.02,35.98,46.9,31.9,38.0,30,4.352,165000.0,718000.0
+2006,India,Punjab,Moga,Wheat,Rabi,17.76,35.48,58.4,32.8,35.0,21,4.143,175000.0,725000.0
+2006,India,Punjab,Muktsar,Wheat,Rabi,18.21,36.32,48.7,30.9,41.4,25,4.228,202000.0,854000.0
+2006,India,Punjab,Nawanshahr,Wheat,Rabi,18.06,33.72,73.1,33.7,34.8,21,4.167,72000.0,300000.0
+2006,India,Punjab,Patiala,Wheat,Rabi,17.94,34.78,60.3,34.0,34.5,25,4.615,244000.0,1126000.0
+2006,India,Punjab,Rupnagar,Wheat,Rabi,18.06,33.72,73.1,33.7,34.8,21,3.789,57000.0,216000.0
+2006,India,Punjab,S.A.S Nagar,Wheat,Rabi,17.8,33.77,82.3,34.7,37.2,19,3.86,50000.0,193000.0
+2006,India,Punjab,Sangrur,Wheat,Rabi,17.72,35.42,53.2,32.9,35.5,27,4.432,396000.0,1755000.0
+2006,India,Punjab,Tarn Taran,Wheat,Rabi,17.57,35.15,66.7,34.0,33.9,17,4.142,183000.0,758000.0
+2007,India,Punjab,Amritsar,Wheat,Rabi,15.88,36.22,195.6,55.7,45.3,5,4.402,184000.0,810000.0
+2007,India,Punjab,Barnala,Wheat,Rabi,16.56,37.9,149.7,50.2,39.2,9,4.777,112000.0,535000.0
+2007,India,Punjab,Bathinda,Wheat,Rabi,17.28,37.98,122.1,47.2,47.5,13,4.36,247000.0,1077000.0
+2007,India,Punjab,Faridkot,Wheat,Rabi,16.75,37.9,135.3,49.8,43.7,10,4.35,117000.0,509000.0
+2007,India,Punjab,Fatehgarh Sahib,Wheat,Rabi,16.93,37.45,182.2,48.2,38.2,9,5.047,85000.0,429000.0
+2007,India,Punjab,Firozpur,Wheat,Rabi,16.51,37.62,144.9,51.7,41.2,10,4.519,395000.0,1785000.0
+2007,India,Punjab,Gurdaspur,Wheat,Rabi,16.18,34.1,272.2,51.1,51.3,4,4.225,231000.0,976000.0
+2007,India,Punjab,Hoshiarpur,Wheat,Rabi,16.07,34.52,245.8,49.2,46.2,4,3.807,145000.0,552000.0
+2007,India,Punjab,Jalandhar,Wheat,Rabi,16.02,35.98,213.1,54.1,45.7,5,4.437,167000.0,741000.0
+2007,India,Punjab,Kapurthala,Wheat,Rabi,16.02,35.98,213.1,54.1,45.7,5,4.559,111000.0,506000.0
+2007,India,Punjab,Ludhiana,Wheat,Rabi,16.2,37.17,173.8,53.0,40.9,9,4.798,258000.0,1238000.0
+2007,India,Punjab,Mansa,Wheat,Rabi,17.1,38.11,134.6,47.2,40.8,13,4.302,169000.0,727000.0
+2007,India,Punjab,Moga,Wheat,Rabi,16.29,37.34,157.9,52.8,41.8,9,4.674,175000.0,818000.0
+2007,India,Punjab,Muktsar,Wheat,Rabi,16.99,38.47,119.1,49.0,44.3,11,4.767,202000.0,963000.0
+2007,India,Punjab,Nawanshahr,Wheat,Rabi,16.74,36.54,209.2,48.9,40.8,8,4.556,72000.0,328000.0
+2007,India,Punjab,Patiala,Wheat,Rabi,16.93,37.45,182.2,48.2,38.2,9,4.721,240000.0,1133000.0
+2007,India,Punjab,Rupnagar,Wheat,Rabi,16.74,36.54,209.2,48.9,40.8,8,4.129,62000.0,256000.0
+2007,India,Punjab,S.A.S Nagar,Wheat,Rabi,16.95,36.19,216.6,44.6,39.6,7,3.979,48000.0,191000.0
+2007,India,Punjab,Sangrur,Wheat,Rabi,16.56,37.9,149.7,50.2,39.2,9,4.689,283000.0,1327000.0
+2007,India,Punjab,Tarn Taran,Wheat,Rabi,15.88,36.22,195.6,55.7,45.3,5,4.427,185000.0,819000.0
+2008,India,Punjab,Amritsar,Wheat,Rabi,17.1,37.37,45.3,34.3,34.1,32,4.048,187000.0,757000.0
+2008,India,Punjab,Barnala,Wheat,Rabi,17.4,37.93,24.5,31.6,34.8,34,4.86,114000.0,554000.0
+2008,India,Punjab,Bathinda,Wheat,Rabi,17.97,38.45,17.9,29.5,44.7,35,4.627,249000.0,1152000.0
+2008,India,Punjab,Faridkot,Wheat,Rabi,17.62,38.22,24.4,31.2,40.3,34,4.661,118000.0,550000.0
+2008,India,Punjab,Fatehgarh Sahib,Wheat,Rabi,17.76,37.73,24.9,30.7,33.3,33,4.424,85000.0,376000.0
+2008,India,Punjab,Firozpur,Wheat,Rabi,17.52,38.06,31.0,32.2,35.1,34,4.681,395000.0,1849000.0
+2008,India,Punjab,Gurdaspur,Wheat,Rabi,17.16,35.33,63.2,33.4,37.7,23,4.013,231000.0,927000.0
+2008,India,Punjab,Hoshiarpur,Wheat,Rabi,16.95,34.94,47.8,32.7,34.9,23,3.539,154000.0,545000.0
+2008,India,Punjab,Jalandhar,Wheat,Rabi,17.14,36.83,47.1,34.1,34.3,31,4.14,171000.0,708000.0
+2008,India,Punjab,Kapurthala,Wheat,Rabi,17.14,36.83,47.1,34.1,34.3,31,4.252,111000.0,472000.0
+2008,India,Punjab,Ludhiana,Wheat,Rabi,17.25,37.57,34.3,33.0,33.6,33,4.39,259000.0,1137000.0
+2008,India,Punjab,Mansa,Wheat,Rabi,17.73,38.19,17.7,30.0,37.5,34,4.626,171000.0,791000.0
+2008,India,Punjab,Moga,Wheat,Rabi,17.35,37.75,33.6,32.8,34.9,34,7.462,117000.0,873000.0
+2008,India,Punjab,Muktsar,Wheat,Rabi,17.84,38.5,23.4,30.7,41.4,34,4.837,202000.0,977000.0
+2008,India,Punjab,Nawanshahr,Wheat,Rabi,17.7,36.85,34.9,31.3,33.6,33,3.908,76000.0,297000.0
+2008,India,Punjab,Patiala,Wheat,Rabi,17.76,37.73,24.9,30.7,33.3,33,4.698,242000.0,1137000.0
+2008,India,Punjab,Rupnagar,Wheat,Rabi,17.7,36.85,34.9,31.3,33.6,33,3.312,64000.0,212000.0
+2008,India,Punjab,S.A.S Nagar,Wheat,Rabi,17.56,36.3,27.9,30.5,34.4,32,4.245,49000.0,208000.0
+2008,India,Punjab,Sangrur,Wheat,Rabi,17.4,37.93,24.5,31.6,34.8,34,4.754,285000.0,1355000.0
+2008,India,Punjab,Tarn Taran,Wheat,Rabi,17.1,37.37,45.3,34.3,34.1,32,4.602,186000.0,856000.0
+2009,India,Punjab,Amritsar,Wheat,Rabi,17.69,33.68,104.1,44.8,39.5,18,4.07,185000.0,753000.0
+2009,India,Punjab,Barnala,Wheat,Rabi,18.02,35.58,72.0,42.7,38.0,23,4.561,114000.0,520000.0
+2009,India,Punjab,Bathinda,Wheat,Rabi,18.79,36.3,60.9,37.6,45.3,27,4.036,251000.0,1013000.0
+2009,India,Punjab,Faridkot,Wheat,Rabi,18.35,35.8,72.8,39.7,41.0,25,4.111,117000.0,481000.0
+2009,India,Punjab,Fatehgarh Sahib,Wheat,Rabi,18.13,35.13,70.4,44.7,39.8,21,4.929,85000.0,419000.0
+2009,India,Punjab,Firozpur,Wheat,Rabi,18.2,35.01,83.6,40.0,36.6,21,4.142,395000.0,1636000.0
+2009,India,Punjab,Gurdaspur,Wheat,Rabi,18.01,32.22,128.8,42.7,45.7,9,4.087,230000.0,940000.0
+2009,India,Punjab,Hoshiarpur,Wheat,Rabi,17.77,31.7,108.8,43.0,44.0,7,3.85,153000.0,589000.0
+2009,India,Punjab,Jalandhar,Wheat,Rabi,17.74,33.2,107.5,45.5,41.3,15,4.324,170000.0,735000.0
+2009,India,Punjab,Kapurthala,Wheat,Rabi,17.74,33.2,107.5,45.5,41.3,15,4.117,111000.0,457000.0
+2009,India,Punjab,Ludhiana,Wheat,Rabi,17.8,34.38,88.5,44.8,38.3,19,4.633,259000.0,1200000.0
+2009,India,Punjab,Mansa,Wheat,Rabi,18.43,36.26,59.3,40.3,39.4,27,4.294,170000.0,730000.0
+2009,India,Punjab,Moga,Wheat,Rabi,17.98,34.7,87.8,42.5,37.5,21,4.401,177000.0,779000.0
+2009,India,Punjab,Muktsar,Wheat,Rabi,18.58,35.57,71.5,38.1,42.0,26,4.634,205000.0,950000.0
+2009,India,Punjab,Nawanshahr,Wheat,Rabi,18.24,33.63,88.1,44.0,41.0,19,4.27,74000.0,316000.0
+2009,India,Punjab,Patiala,Wheat,Rabi,18.13,35.13,70.4,44.7,39.8,21,4.523,235000.0,1063000.0
+2009,India,Punjab,Rupnagar,Wheat,Rabi,18.24,33.63,88.1,44.0,41.0,19,4.262,65000.0,277000.0
+2009,India,Punjab,S.A.S Nagar,Wheat,Rabi,18.06,33.57,66.5,43.5,43.0,18,4.491,53000.0,238000.0
+2009,India,Punjab,Sangrur,Wheat,Rabi,18.02,35.58,72.0,42.7,38.0,23,4.537,287000.0,1302000.0
+2009,India,Punjab,Tarn Taran,Wheat,Rabi,17.69,33.68,104.1,44.8,39.5,18,4.145,186000.0,771000.0
+2010,India,Punjab,Amritsar,Wheat,Rabi,18.17,40.12,30.9,32.0,33.3,27,4.286,189000.0,810000.0
+2010,India,Punjab,Barnala,Wheat,Rabi,18.16,40.62,20.6,31.8,35.1,29,4.974,115000.0,572000.0
+2010,India,Punjab,Bathinda,Wheat,Rabi,18.78,41.06,15.8,29.6,44.9,32,4.609,253000.0,1166000.0
+2010,India,Punjab,Faridkot,Wheat,Rabi,18.5,40.82,18.7,30.3,40.0,28,4.812,117000.0,563000.0
+2010,India,Punjab,Fatehgarh Sahib,Wheat,Rabi,18.29,40.45,25.8,33.5,34.2,29,4.906,85000.0,417000.0
+2010,India,Punjab,Firozpur,Wheat,Rabi,18.49,40.75,20.6,30.6,35.0,27,4.66,397000.0,1850000.0
+2010,India,Punjab,Gurdaspur,Wheat,Rabi,18.22,38.12,48.6,31.4,35.9,23,4.066,226000.0,919000.0
+2010,India,Punjab,Hoshiarpur,Wheat,Rabi,17.82,37.76,38.4,33.3,35.4,22,4.292,154000.0,661000.0
+2010,India,Punjab,Jalandhar,Wheat,Rabi,18.15,39.47,33.5,32.5,33.8,27,4.692,169000.0,793000.0
+2010,India,Punjab,Kapurthala,Wheat,Rabi,18.15,39.47,33.5,32.5,33.8,27,4.444,108000.0,480000.0
+2010,India,Punjab,Ludhiana,Wheat,Rabi,18.12,40.2,25.4,32.3,33.4,27,4.965,257000.0,1276000.0
+2010,India,Punjab,Mansa,Wheat,Rabi,18.43,40.95,17.8,31.0,37.7,32,4.882,170000.0,830000.0
+2010,India,Punjab,Moga,Wheat,Rabi,18.31,40.53,23.3,31.2,34.6,27,5.011,177000.0,887000.0
+2010,India,Punjab,Muktsar,Wheat,Rabi,18.76,40.99,16.2,29.6,41.1,29,4.984,192000.0,957000.0
+2010,India,Punjab,Nawanshahr,Wheat,Rabi,18.4,39.43,30.7,33.1,34.3,27,4.703,74000.0,348000.0
+2010,India,Punjab,Patiala,Wheat,Rabi,18.29,40.45,25.8,33.5,34.2,29,4.835,236000.0,1141000.0
+2010,India,Punjab,Rupnagar,Wheat,Rabi,18.4,39.43,30.7,33.1,34.3,27,3.892,65000.0,253000.0
+2010,India,Punjab,S.A.S Nagar,Wheat,Rabi,18.01,39.03,38.4,35.3,37.1,25,4.283,53000.0,227000.0
+2010,India,Punjab,Sangrur,Wheat,Rabi,18.16,40.62,20.6,31.8,35.1,29,5.129,287000.0,1472000.0
+2010,India,Punjab,Tarn Taran,Wheat,Rabi,18.17,40.12,30.9,32.0,33.3,27,4.57,186000.0,850000.0
+2011,India,Punjab,Amritsar,Wheat,Rabi,16.44,37.68,57.3,43.0,37.9,19,4.974,190000.0,945000.0
+2011,India,Punjab,Barnala,Wheat,Rabi,16.63,38.57,53.4,43.0,38.2,20,5.348,115000.0,615000.0
+2011,India,Punjab,Bathinda,Wheat,Rabi,17.37,39.3,46.5,38.0,45.6,21,5.0,252000.0,1260000.0
+2011,India,Punjab,Faridkot,Wheat,Rabi,16.98,39.05,46.2,39.3,41.3,21,5.265,117000.0,616000.0
+2011,India,Punjab,Fatehgarh Sahib,Wheat,Rabi,16.79,37.55,68.7,45.4,39.9,19,5.282,85000.0,449000.0
+2011,India,Punjab,Firozpur,Wheat,Rabi,16.95,39.01,41.4,37.3,36.3,21,4.997,394000.0,1969000.0
+2011,India,Punjab,Gurdaspur,Wheat,Rabi,16.65,35.9,81.8,42.9,44.9,17,4.753,231000.0,1098000.0
+2011,India,Punjab,Hoshiarpur,Wheat,Rabi,16.44,34.97,82.1,43.4,44.0,13,4.506,154000.0,694000.0
+2011,India,Punjab,Jalandhar,Wheat,Rabi,16.51,37.01,65.7,44.6,39.7,19,5.064,171000.0,866000.0
+2011,India,Punjab,Kapurthala,Wheat,Rabi,16.51,37.01,65.7,44.6,39.7,19,4.927,110000.0,542000.0
+2011,India,Punjab,Ludhiana,Wheat,Rabi,16.54,38.12,57.4,44.0,37.5,19,5.374,257000.0,1381000.0
+2011,India,Punjab,Mansa,Wheat,Rabi,17.0,38.9,53.4,41.4,40.1,21,4.947,170000.0,841000.0
+2011,India,Punjab,Moga,Wheat,Rabi,16.69,38.55,49.6,40.9,37.2,20,5.46,176000.0,961000.0
+2011,India,Punjab,Muktsar,Wheat,Rabi,17.32,39.49,37.8,35.8,41.9,21,5.029,206000.0,1036000.0
+2011,India,Punjab,Nawanshahr,Wheat,Rabi,16.97,36.88,73.8,44.0,40.5,19,5.16,75000.0,387000.0
+2011,India,Punjab,Patiala,Wheat,Rabi,16.79,37.55,68.7,45.4,39.9,19,5.473,237000.0,1297000.0
+2011,India,Punjab,Rupnagar,Wheat,Rabi,16.97,36.88,73.8,44.0,40.5,19,4.641,64000.0,297000.0
+2011,India,Punjab,S.A.S Nagar,Wheat,Rabi,16.28,35.45,88.8,49.1,49.1,17,4.788,52000.0,249000.0
+2011,India,Punjab,Sangrur,Wheat,Rabi,16.63,38.57,53.4,43.0,38.2,20,5.495,287000.0,1577000.0
+2011,India,Punjab,Tarn Taran,Wheat,Rabi,16.44,37.68,57.3,43.0,37.9,19,4.876,185000.0,902000.0
+2012,India,Punjab,Amritsar,Wheat,Rabi,16.19,37.84,53.0,39.8,37.2,12,4.653,190000.0,884000.0
+2012,India,Punjab,Barnala,Wheat,Rabi,16.52,38.12,22.9,37.8,37.4,16,4.974,114000.0,567000.0
+2012,India,Punjab,Bathinda,Wheat,Rabi,17.21,38.88,11.9,32.8,45.3,18,4.787,254000.0,1216000.0
+2012,India,Punjab,Faridkot,Wheat,Rabi,16.79,38.15,21.3,35.0,41.0,15,4.726,117000.0,553000.0
+2012,India,Punjab,Fatehgarh Sahib,Wheat,Rabi,16.68,38.06,26.4,40.5,38.5,16,5.176,85000.0,440000.0
+2012,India,Punjab,Fazilka,Wheat,Rabi,17.17,39.68,12.4,30.7,42.4,17,4.673,208000.0,972000.0
+2012,India,Punjab,Firozpur,Wheat,Rabi,16.6,38.24,30.3,35.2,36.2,15,4.924,185000.0,911000.0
+2012,India,Punjab,Gurdaspur,Wheat,Rabi,16.37,35.84,77.8,40.1,43.7,11,4.484,184000.0,825000.0
+2012,India,Punjab,Hoshiarpur,Wheat,Rabi,16.09,35.68,57.9,41.2,42.9,11,4.221,149000.0,629000.0
+2012,India,Punjab,Jalandhar,Wheat,Rabi,16.25,37.03,55.8,41.2,39.3,12,4.574,169000.0,773000.0
+2012,India,Punjab,Kapurthala,Wheat,Rabi,16.25,37.03,55.8,41.2,39.3,12,4.636,110000.0,510000.0
+2012,India,Punjab,Ludhiana,Wheat,Rabi,16.34,37.8,37.4,39.9,37.0,15,4.852,256000.0,1242000.0
+2012,India,Punjab,Mansa,Wheat,Rabi,16.92,38.64,13.4,35.5,39.2,17,4.439,171000.0,759000.0
+2012,India,Punjab,Moga,Wheat,Rabi,16.45,38.07,35.4,37.5,36.7,15,4.949,176000.0,871000.0
+2012,India,Punjab,Muktsar,Wheat,Rabi,17.0,38.92,18.1,33.1,41.8,15,4.766,209000.0,996000.0
+2012,India,Punjab,Nawanshahr,Wheat,Rabi,16.77,37.51,40.4,40.4,39.6,14,4.775,80000.0,382000.0
+2012,India,Punjab,Pathankot,Wheat,Rabi,12.45,30.95,110.0,42.7,54.4,0,4.119,42000.0,173000.0
+2012,India,Punjab,Patiala,Wheat,Rabi,16.68,38.06,26.4,40.5,38.5,16,4.799,234000.0,1123000.0
+2012,India,Punjab,Rupnagar,Wheat,Rabi,16.77,37.51,40.4,40.4,39.6,14,4.508,63000.0,284000.0
+2012,India,Punjab,S.A.S Nagar,Wheat,Rabi,16.31,36.37,37.5,43.1,44.1,13,4.315,54000.0,233000.0
+2012,India,Punjab,Sangrur,Wheat,Rabi,16.52,38.12,22.9,37.8,37.4,16,5.168,285000.0,1473000.0
+2012,India,Punjab,Tarn Taran,Wheat,Rabi,16.19,37.84,53.0,39.8,37.2,12,4.385,182000.0,798000.0
+2013,India,Punjab,Amritsar,Wheat,Rabi,16.13,33.75,134.9,46.4,38.5,13,4.968,188000.0,934000.0
+2013,India,Punjab,Barnala,Wheat,Rabi,16.24,34.8,114.0,44.8,38.2,16,5.228,114000.0,596000.0
+2013,India,Punjab,Bathinda,Wheat,Rabi,16.74,35.4,92.2,41.6,46.3,17,4.957,254000.0,1259000.0
+2013,India,Punjab,Faridkot,Wheat,Rabi,16.44,35.1,101.5,43.3,42.4,17,5.181,116000.0,601000.0
+2013,India,Punjab,Fatehgarh Sahib,Wheat,Rabi,16.41,34.43,148.7,46.4,38.4,16,5.083,84000.0,427000.0
+2013,India,Punjab,Fazilka,Wheat,Rabi,16.89,35.15,81.8,39.8,44.3,19,4.924,211000.0,1039000.0
+2013,India,Punjab,Firozpur,Wheat,Rabi,16.37,34.77,102.5,43.2,38.3,19,5.296,189000.0,1001000.0
+2013,India,Punjab,Gurdaspur,Wheat,Rabi,16.88,32.2,186.2,44.2,43.7,6,4.467,184000.0,822000.0
+2013,India,Punjab,Hoshiarpur,Wheat,Rabi,16.63,31.55,195.7,45.7,43.4,5,4.534,148000.0,671000.0
+2013,India,Punjab,Jalandhar,Wheat,Rabi,16.27,33.32,154.5,47.3,40.0,9,4.953,169000.0,837000.0
+2013,India,Punjab,Kapurthala,Wheat,Rabi,16.27,33.32,154.5,47.3,40.0,9,4.937,111000.0,548000.0
+2013,India,Punjab,Ludhiana,Wheat,Rabi,16.16,34.45,130.4,46.6,37.9,16,5.224,254000.0,1327000.0
+2013,India,Punjab,Mansa,Wheat,Rabi,16.54,34.99,102.6,42.6,40.1,19,5.024,170000.0,854000.0
+2013,India,Punjab,Moga,Wheat,Rabi,16.24,34.6,114.7,44.8,38.4,16,5.239,176000.0,922000.0
+2013,India,Punjab,Muktsar,Wheat,Rabi,16.69,35.37,91.3,41.7,43.5,19,5.062,209000.0,1058000.0
+2013,India,Punjab,Nawanshahr,Wheat,Rabi,16.82,33.65,170.9,46.1,40.2,11,4.947,75000.0,371000.0
+2013,India,Punjab,Pathankot,Wheat,Rabi,13.42,27.08,222.2,45.6,55.1,0,3.976,42000.0,167000.0
+2013,India,Punjab,Patiala,Wheat,Rabi,16.41,34.43,148.7,46.4,38.4,16,4.97,232000.0,1153000.0
+2013,India,Punjab,Rupnagar,Wheat,Rabi,16.82,33.65,170.9,46.1,40.2,11,4.582,67000.0,307000.0
+2013,India,Punjab,S.A.S Nagar,Wheat,Rabi,16.48,32.74,208.6,47.5,44.9,6,4.471,51000.0,228000.0
+2013,India,Punjab,Sangrur,Wheat,Rabi,16.24,34.8,114.0,44.8,38.2,16,5.498,285000.0,1567000.0
+2013,India,Punjab,Tarn Taran,Wheat,Rabi,16.13,33.75,134.9,46.4,38.5,13,5.087,183000.0,931000.0
+2014,India,Punjab,Amritsar,Wheat,Rabi,15.94,33.87,95.4,43.6,38.3,10,3.915,188000.0,736000.0
+2014,India,Punjab,Barnala,Wheat,Rabi,16.28,34.51,82.8,41.9,37.1,12,4.623,114000.0,527000.0
+2014,India,Punjab,Bathinda,Wheat,Rabi,17.16,34.85,51.0,36.9,45.3,13,4.795,254000.0,1218000.0
+2014,India,Punjab,Faridkot,Wheat,Rabi,16.72,34.67,63.6,38.6,40.7,13,4.81,116000.0,558000.0
+2014,India,Punjab,Fatehgarh Sahib,Wheat,Rabi,16.2,33.98,132.2,45.9,39.1,11,4.048,84000.0,340000.0
+2014,India,Punjab,Fazilka,Wheat,Rabi,17.29,35.23,35.5,34.5,42.5,15,4.432,206000.0,913000.0
+2014,India,Punjab,Firozpur,Wheat,Rabi,16.67,34.23,62.0,37.7,35.9,14,4.665,188000.0,877000.0
+2014,India,Punjab,Gurdaspur,Wheat,Rabi,16.32,32.62,134.7,44.5,45.9,2,3.353,187000.0,627000.0
+2014,India,Punjab,Hoshiarpur,Wheat,Rabi,16.08,32.24,166.5,46.4,45.3,2,3.6,150000.0,540000.0
+2014,India,Punjab,Jalandhar,Wheat,Rabi,15.97,33.6,118.5,46.1,41.1,7,4.102,167000.0,685000.0
+2014,India,Punjab,Kapurthala,Wheat,Rabi,15.97,33.6,118.5,46.1,41.1,7,3.9,110000.0,429000.0
+2014,India,Punjab,Ludhiana,Wheat,Rabi,16.03,34.26,101.1,44.5,37.5,11,4.462,253000.0,1129000.0
+2014,India,Punjab,Mansa,Wheat,Rabi,16.72,34.62,66.1,39.8,39.0,12,4.47,166000.0,742000.0
+2014,India,Punjab,Moga,Wheat,Rabi,16.29,34.24,79.4,41.1,36.7,13,4.537,175000.0,794000.0
+2014,India,Punjab,Muktsar,Wheat,Rabi,17.11,34.85,48.8,36.1,41.7,15,4.361,208000.0,907000.0
+2014,India,Punjab,Nawanshahr,Wheat,Rabi,16.45,33.46,151.8,46.1,41.2,7,3.711,76000.0,282000.0
+2014,India,Punjab,Pathankot,Wheat,Rabi,12.73,27.83,161.8,46.2,56.0,0,2.738,42000.0,115000.0
+2014,India,Punjab,Patiala,Wheat,Rabi,16.2,33.98,132.2,45.9,39.1,11,4.395,233000.0,1024000.0
+2014,India,Punjab,Rupnagar,Wheat,Rabi,16.45,33.46,151.8,46.1,41.2,7,4.03,66000.0,266000.0
+2014,India,Punjab,S.A.S Nagar,Wheat,Rabi,15.96,32.04,197.4,49.5,46.5,4,3.96,50000.0,198000.0
+2014,India,Punjab,Sangrur,Wheat,Rabi,16.28,34.51,82.8,41.9,37.1,12,4.81,284000.0,1366000.0
+2014,India,Punjab,Tarn Taran,Wheat,Rabi,15.94,33.87,95.4,43.6,38.3,10,4.133,188000.0,777000.0

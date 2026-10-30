@@ -1,0 +1,73 @@
+{
+  "dataset_name": "Punjab Rabi Wheat - Real Climate + Yield Dataset",
+  "created_at": "2026-10-30T10:38:42.450649",
+  "yield_source": {
+    "name": "Directorate of Economics & Statistics (DES), Ministry of Agriculture, India",
+    "url": "https://desagri.gov.in/",
+    "mirror_url": "https://raw.githubusercontent.com/dibyendubiswas1998/Crop-Production-Analysis/main/DATA/crop_production.csv",
+    "variables": [
+      "Area (hectares)",
+      "Production (tonnes)",
+      "Yield (t/ha)"
+    ],
+    "coverage": "District-level, Punjab, India"
+  },
+  "climate_source": {
+    "name": "NASA POWER (Prediction of Worldwide Energy Resources)",
+    "url": "https://power.larc.nasa.gov/",
+    "api_version": "v2",
+    "community": "AG (Agroclimatology)",
+    "parameters": {
+      "T2M": "Temperature at 2 Meters (deg C) - daily mean",
+      "T2M_MAX": "Temperature at 2 Meters Maximum (deg C) - daily max",
+      "PRECTOTCORR": "Precipitation Corrected (mm/day) - total daily",
+      "RH2M": "Relative Humidity at 2 Meters (%) - daily mean",
+      "GWETROOT": "Root Zone Soil Wetness (fraction 0-1) - daily mean"
+    },
+    "spatial_resolution": "0.5\u00b0 x 0.5\u00b0 latitude/longitude grid"
+  },
+  "season_definition": {
+    "crop": "Wheat (Triticum aestivum)",
+    "season": "Rabi",
+    "sowing_months": "November",
+    "harvest_months": "March-April",
+    "climate_window": "November (year-1) to March (year)",
+    "terminal_heat_period": "February-March",
+    "heat_threshold_celsius": 31.0
+  },
+  "feature_engineering": {
+    "avg_temperature": "Mean of daily T2M over Nov-Mar",
+    "max_temperature": "Maximum of daily T2M_MAX during Feb-Mar (terminal period)",
+    "rainfall_mm": "Sum of daily PRECTOTCORR over Nov-Mar",
+    "humidity_pct": "Mean of daily RH2M over Nov-Mar",
+    "soil_moisture_pct": "Mean of daily GWETROOT over Nov-Mar \u00d7 100",
+    "heat_wave_days": "Count of days in Feb-Mar where T2M_MAX > 31\u00b0C"
+  },
+  "records": 338,
+  "year_range": "1997 - 2014",
+  "districts": [
+    "Amritsar",
+    "Barnala",
+    "Bathinda",
+    "Faridkot",
+    "Fatehgarh Sahib",
+    "Fazilka",
+    "Firozpur",
+    "Gurdaspur",
+    "Hoshiarpur",
+    "Jalandhar",
+    "Kapurthala",
+    "Ludhiana",
+    "Mansa",
+    "Moga",
+    "Muktsar",
+    "Nawanshahr",
+    "Pathankot",
+    "Patiala",
+    "Rupnagar",
+    "S.A.S Nagar",
+    "Sangrur",
+    "Tarn Taran"
+  ],
+  "district_count": 22
+}
